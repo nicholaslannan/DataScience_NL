@@ -1,0 +1,20 @@
+---
+title: "DSLecture26_NL.R"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+x <- rnorm(100)
+
+hist(x)
+```
+
+
+
+![Johann Carl Friedrich Gauss was a German mathematician and physicist who made significant contributions to many fields in mathematics and science.](Gauss_Photo.jpeg)
